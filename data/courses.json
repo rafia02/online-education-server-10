@@ -1,0 +1,63 @@
+[
+    {
+      "id": "01",
+      "course_name": "Digital Marketing",
+      "title": "Digital Marketing Special Course",
+      "img": "https://cdn.utaustinbootcamps.com/wp-content/uploads/sites/119/2020/11/DM_blog_post_image_03.jpg",
+      "body": "In this instructor-led Digital Marketing certification course, you will master the core concepts of Digital Marketing while working on various projects that will make you job-ready. Learn Digital Marketing from top academicians from IIT Madras, IIM faculty along with Industry experts. In this Digital Marketing course, you will master search engine optimization (SEO), search engine marketing (SEM), email marketing, social media marketing, PPC, Analytics, etc. Master high-in-demand digital marketing skills and get certified from CCE, IIT Madras.",
+      "price": 199,
+      "rating": 4.5,
+      "purchased": "9+K"
+    },
+    {
+      "id": "02",
+      "course_name": "Google Analytics",
+      "title": "Google Analytics Online Course",
+      "img": "https://martech.org/wp-content/uploads/2015/09/google-analytics-name2-1920.png",
+      "body": "Google Analytics is the most popular tool for measuring the performance of your website. This Google Analytics training gives you a thorough understanding of the principles of this data-driven decision-making tool. You will be trained in the installation of code, setting goals, web traffic study, demographics, browsing habits and creating custom reports. ",
+      "price": 399,
+      "rating": 4.7,
+      "purchased": "8+K"
+    },
+    {
+      "id": "03",
+      "course_name": "SEO Marketing",
+      "title": " Search Engine Optimization (SEO) Course",
+      "img": "https://oviondwebsite.s3.amazonaws.com/SEO_Certifications_And_Courses_For_2022_2a896e836f.png",
+      "body": "This is an advanced SEO certification online course that includes various techniques and tools to improve a website’s ranking on the search engine’s results page. This SEO online training course includes on-page and off-page optimization, working with Google Analytics and Webmaster, and deploying various tools for mastering the technique of SEO Audit. ",
+      "price": 299,
+      "rating": 4.8,
+      "purchased": "4+K"
+
+    },
+    {
+      "id": "04",
+      "course_name": "Data Science",
+      "title": "Data Science and Engineering Course",
+      "img": "https://res.cloudinary.com/jerrick/image/upload/v1662014077/6310527dd55438001e52acfd.png",
+      "body": "Our Data Engineering course will provide you in-depth knowledge in SQL, Python, data pipelines, data transformation, Spark, and cloud services of AWS and Azure. Multiple Data Engineering courses and real-world projects help you master core concepts & skills like creating production-ready ETL and pulling data from multiple data sources, building cloud data warehouses, Data Modeling, etc.",
+      "price": 449,
+      "rating": 4.9,
+      "purchased": "5+K"
+    },
+    {
+      "id": "05",
+      "course_name": "Web Development",
+      "title": "PG Program in Web Development",
+      "img": "https://i0.wp.com/elysiumacademy.org/wp-content/uploads/2016/02/Web-Development.jpg",
+      "body": "The PG certification program in Full Stack Web Development is created with an objective to provide high-end skills, such as Python, MongoDB(NoSQL), MEAN stack, Python Django, NodeJS, ReactJS, and other advanced competencies. The program is also a collaboration with Microsoft that involves real-time projects and exercises.",
+      "price": 300,
+      "rating": 4.3,
+      "purchased": "3+K"
+    },
+    {
+      "id": "06",
+      "course_name": "Cyber Security",
+      "title": "Cyber Security Master's Program",
+      "img": "https://www.onlinecoursereport.com/wp-content/uploads/2020/04/shutterstock_617737619-1024x553.jpg",
+      "body": "Our master’s program in Cyber Security is specially designed to make you an expert in this IT domain by teaching you various techniques and concepts, such as malware threats, trojans, cryptography, IAM, security operations, BIA, etc. ",
+      "price": 269,
+      "rating": 4.5,
+      "purchased": "2+K"
+    }
+  ]
